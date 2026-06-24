@@ -34,6 +34,3 @@ Melalui pemodelan regresi linear antara posisi start (`grid_pos`) dan posisi fin
 Analisis Heatmap menunjukkan korelasi negatif sempurna (-1.00) antara posisi finish dengan perolehan poin. Hal ini memvalidasi integritas dataset sekaligus menegaskan aturan F1: semakin kecil angka posisi finishnya (Juara 1), perolehan poin yang dibawa pulang ke klasemen justru semakin maksimal. Selain itu, sebaran posisi start yang seragam (*uniform distribution*) membuktikan dataset ini bersih dan tidak bias.
 
 ---
-
-   ```bash
-   git clone [https://github.com/username-kamu/f1-data-analysis.git](https://github.com/username-kamu/f1-data-analysis.git)
