@@ -24,7 +24,7 @@ Analisis ini menggunakan dua dataset utama yang saling terhubung:
 
 ## 🎯 3 Key Findings
 
-### 1. Tolok Ukur Efisiensi Pit Stop (Pit Lane Window)
+### 1. Tolak Ukur Efisiensi Pit Stop (Pit Lane Window)
 Berdasarkan analisis distribusi operasional, batas median waktu yang dihabiskan pembalap di area *pit lane* adalah **23.33 detik**, dengan mayoritas performa kompetitif berkerumun rapat di rentang **21 hingga 26 detik**. Margin waktu ini menjadi acuan mutlak bagi tim strategi untuk menghitung window *under-cut* atau *over-cut* saat balapan.
 
 ### 2. Kualifikasi Adalah 50% Kunci Kemenangan
@@ -35,7 +35,5 @@ Analisis Heatmap menunjukkan korelasi negatif sempurna (-1.00) antara posisi fin
 
 ---
 
-## 🚀 How to Run
-1. Clone repository ini:
    ```bash
    git clone [https://github.com/username-kamu/f1-data-analysis.git](https://github.com/username-kamu/f1-data-analysis.git)
